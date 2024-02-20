@@ -1,6 +1,6 @@
 [![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)](https://github.com/Mandy10k/)
 # 💫 About Me:
-🔭 **I’m currently working on:**  <br>  Bionic Arm.<br><br>🌱 **I’m currently learning:**  <br>  AWS Services.<br><br>⚡ **Fun fact:**  <br>  I love to experiment.👾<br>
+🔭 **I’m currently working on:**  <br>  Bionic Arm.<br><br>🌱 **I’m currently learning:**  <br>  Model Based Designing.<br><br>⚡ **Fun fact:**  <br>  I love to experiment.👾<br>
 
 ## 🌐 Socials:
 <p align="left">
